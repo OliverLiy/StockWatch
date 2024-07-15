@@ -1,0 +1,21 @@
+<idea-plugin>
+  <version>1.0-SNAPSHOT</version>
+  <change-notes>
+      Add change notes here.&lt;br&gt;
+      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
+  <idea-version since-build="201.7223" until-build="201.*"/>
+  <id>投票、.StockWatch</id>
+  <name>Plugin display name here</name>
+  <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+  <description>
+    Enter short description for your plugin here.&lt;br&gt;
+    &lt;em&gt;most HTML tags may be used&lt;/em&gt;
+    </description>
+  <depends>com.intellij.modules.platform</depends>
+  <extensions defaultExtensionNs="com.intellij">
+    <applicationService serviceImplementation="top.codeease.stockwatch.storage.StockSettingsState"/>
+    <projectConfigurable instance="top.codeease.stockwatch.config.StockConfigurable"/>
+    <toolWindow id="Stock Prices" anchor="right" factoryClass="top.codeease.stockwatch.window.StockToolWindow"/>
+  </extensions>
+  <actions/>
+</idea-plugin>

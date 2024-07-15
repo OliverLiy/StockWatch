@@ -1,0 +1,25 @@
+<idea-plugin>
+    <id>投票、.StockWatch</id>
+    <name>Plugin display name here</name>
+    <vendor email="support@yourcompany.com" url="http://www.yourcompany.com">YourCompany</vendor>
+
+    <description><![CDATA[
+    Enter short description for your plugin here.<br>
+    <em>most HTML tags may be used</em>
+    ]]></description>
+
+    <!-- please see https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/plugin_compatibility.html
+         on how to target different products -->
+    <depends>com.intellij.modules.platform</depends>
+
+    <extensions defaultExtensionNs="com.intellij">
+        <!-- Add your extensions here -->
+        <applicationService serviceImplementation="top.codeease.stockwatch.storage.StockSettingsState"/>
+        <projectConfigurable instance="top.codeease.stockwatch.config.StockConfigurable"/>
+        <toolWindow id="Stock Prices" anchor="right" factoryClass="top.codeease.stockwatch.window.StockToolWindow"/>
+    </extensions>
+
+    <actions>
+        <!-- Add your actions here -->
+    </actions>
+</idea-plugin>

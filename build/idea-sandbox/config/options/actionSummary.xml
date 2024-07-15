@@ -1,0 +1,21 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <data>
+      <entry key="EditorBackSpace">
+        <ActionSummary times="4" last="1720963499289" />
+      </entry>
+      <entry key="EditorCopy">
+        <ActionSummary times="4" last="1720963716460" />
+      </entry>
+      <entry key="WelcomeScreen.OpenProject">
+        <ActionSummary times="1" last="1720713902923" />
+      </entry>
+      <entry key="com.intellij.ide.ReopenProjectAction">
+        <ActionSummary times="2" last="1720797054490" />
+      </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+        <ActionSummary times="2" last="1720752735194" />
+      </entry>
+    </data>
+  </component>
+</application>

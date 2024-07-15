@@ -1,0 +1,5 @@
+<application>
+  <component name="top.codeease.stockwatch.storage.StockSettingsState">
+    <option name="stockSymbol" value="sh000001,sh600519" />
+  </component>
+</application>
