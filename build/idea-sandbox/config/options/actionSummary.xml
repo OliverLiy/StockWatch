@@ -16,6 +16,9 @@
       <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
         <ActionSummary times="2" last="1720752735194" />
       </entry>
+      <entry key="com.intellij.openapi.wm.impl.ToolWindowHeader$ShowOptionsAction">
+        <ActionSummary times="2" last="1721056068537" />
+      </entry>
     </data>
   </component>
 </application>

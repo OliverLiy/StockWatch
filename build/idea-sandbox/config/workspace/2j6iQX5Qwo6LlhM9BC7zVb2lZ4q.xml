@@ -1,16 +1,6 @@
 <project version="4">
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="6" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -19,7 +9,7 @@
       </set>
     </option>
   </component>
-  <component name="ProjectFrameBounds" x="20" y="45" width="1400" height="758" />
+  <component name="ProjectFrameBounds" x="18" y="43" width="1404" height="762" extendedState="6" />
   <component name="ProjectView">
     <navigator currentView="ProjectPane" proportions="" version="1" />
     <panes>
@@ -39,13 +29,12 @@
     </panes>
   </component>
   <component name="ToolWindowManager">
-    <editor active="true" />
     <layout>
       <window_info id="Commit" order="3" />
       <window_info anchor="bottom" id="Services" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="0" />
-      <window_info anchor="right" id="Stock Prices" order="1" visible="true" weight="0.37334314" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29749632" />
+      <window_info anchor="right" id="Stock Prices" order="1" visible="true" weight="0.41201717" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28898427" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info anchor="bottom" id="TODO" order="3" />
       <window_info anchor="right" id="Ant" order="0" />

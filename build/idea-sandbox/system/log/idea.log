@@ -2934,3 +2934,39 @@ Native library (darwin/libCoreFoundation.dylib) not found in resource path (/Lib
 2024-07-15 20:50:12,157 [246505550]   INFO - rationStore.ComponentStoreImpl - Saving appHttpConfigurable took 244 ms 
 2024-07-15 20:50:54,103 [246547496]   INFO - rationStore.ComponentStoreImpl - Saving Project (name=testDemo, containerState=ACTIVE, componentStore=/Users/apple/Project/demo/testDemo) ProjectViewState took 297 ms 
 2024-07-15 20:54:58,549 [246791942]   INFO - rationStore.ComponentStoreImpl - Saving appImages.OptionsManager took 205 ms 
+2024-07-15 22:27:14,331 [252327724]   INFO - rationStore.ComponentStoreImpl - Saving Project (name=testDemo, containerState=ACTIVE, componentStore=/Users/apple/Project/demo/testDemo) CommitMessageInspectionProfile took 275 ms 
+2024-07-15 23:07:03,789 [254717182]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2024-07-15 23:07:03,953 [254717346]   INFO - ateSettings.impl.UpdateChecker - failed to load plugin descriptions from : Malformed URL:  
+2024-07-15 23:07:11,757 [254725150]   INFO -                         STDERR - Warning: the fonts "Times" and "Times" are not available for the Java logical font "Serif", which may have unexpected appearance or behavior. Re-enable the "Times" font to remove this warning. 
+2024-07-15 23:08:28,728 [254802121]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2024-07-15 23:08:29,841 [254803234]   INFO - ateSettings.impl.UpdateChecker - failed to load plugin descriptions from : Malformed URL:  
+2024-07-15 23:08:51,262 [254824655]   INFO -                         STDOUT - v_sh000001="1~上证指数~000001~2974.01~2971.30~2963.85~268992597~0~0~0.00~0~0.00~0~0.00~0~0.00~0~0.00~0~0.00~0~0.00~0~0.00~0~0.00~0~0.00~0~~20240715155911~2.71~0.09~2977.31~2959.13~2974.01/268992597/268733339474~268992597~26873334~0.57~13.32~~2977.31~2959.13~0.61~429130.60~566227.31~0.00~-1~-1~0.88~0~2970.27~~~~~~26873333.9474~0.0000~0~ ~ZS~-0.03~1.76~~~~3322.13~2635.09~-0.69~-1.39~-1.10~4546667906679~~-10.22~-2.77~4546667906679~~~-8.14~-0.05~~CNY~0~~0.00~0"; 
+2024-07-15 23:08:51,263 [254824656]   INFO -                         STDOUT - v_sh600519="1~贵州茅台~600519~1474.90~1478.82~1470.00~19176~9743~9433~1474.90~7~1474.89~5~1474.88~152~1474.87~1~1474.82~1~1474.94~2~1475.20~12~1475.80~2~1475.82~11~1475.90~7~~20240715155921~-3.92~-0.27~1488.00~1470.00~1474.90/19176/2835374730~19176~283537~0.15~23.75~~1488.00~1470.00~1.22~18527.66~18527.66~9.22~1626.70~1330.94~0.64~132~1478.61~19.25~24.79~~~0.70~283537.4730~0.0000~0~ ~GP-A~-12.99~3.87~3.39~32.54~28.33~1885.02~1410.10~2.40~-2.36~-10.02~1256197800~1256197800~66.00~-12.10~1256197800~~~-13.39~-0.08~~CNY~0~___D__F__N~1474.80~4"; 
+2024-07-15 23:08:51,263 [254824656]   INFO -                         STDOUT -  
+2024-07-15 23:10:32,717 [254926110]   WARN - ConfigurableExtensionPointUtil - ignore deprecated groupId: language for id: preferences.language.Kotlin.scripting 
+2024-07-15 23:10:33,789 [254927182]   INFO - ateSettings.impl.UpdateChecker - failed to load plugin descriptions from : Malformed URL:  
+2024-07-15 23:32:32,782 [256246175]   INFO - pl.local.NativeFileWatcherImpl - Watcher terminated with exit code 0 
+2024-07-15 23:32:32,830 [256246223]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 
+2024-07-15 23:32:33,333 [256246726]   INFO - Types.impl.FileTypeManagerImpl - 87 auto-detected files. Detection took 1224 ms 
+2024-07-15 23:32:33,335 [256246728]   INFO - il.indexing.FileBasedIndexImpl - START INDEX SHUTDOWN 
+2024-07-15 23:32:33,383 [256246776]   INFO - tellij.psi.stubs.StubIndexImpl - StubIndexExtension-s were unloaded 
+2024-07-15 23:32:33,428 [256246821]   INFO - il.indexing.FileBasedIndexImpl - END INDEX SHUTDOWN 
+2024-07-15 23:32:33,430 [256246823]   INFO - newvfs.persistent.PersistentFS - VFS dispose started 
+2024-07-15 23:32:33,443 [256246836]   INFO - newvfs.persistent.PersistentFS - VFS dispose completed 
+2024-07-15 23:32:33,443 [256246836]   INFO - stubs.SerializationManagerImpl - START StubSerializationManager SHUTDOWN 
+2024-07-15 23:32:33,443 [256246836]   INFO - stubs.SerializationManagerImpl - END StubSerializationManager SHUTDOWN 
+2024-07-15 23:32:33,445 [256246838]   INFO - plication.impl.ApplicationImpl - Write action Statistics:
+Event number:     44
+Total time spent: 909ms
+Average duration: 20ms
+Median  duration: 4ms
+Max     duration: 239ms (it was 'write action (class com.intellij.openapi.project.DumbServiceImpl$$Lambda$1980/0x000000080143fc40)') 
+2024-07-15 23:32:33,448 [256246841]   INFO - plication.impl.ApplicationImpl - AnAction.update() Statistics:
+Event number:     19072
+Total time spent: 698ms
+Average duration: 0ms
+Median  duration: 0ms
+Max     duration: 225ms (it was 'View Options action update (class com.intellij.ide.actions.ToggleToolbarAction$OptionsGroup)') 
+2024-07-15 23:32:33,448 [256246841]   INFO - plication.impl.ApplicationImpl - Global instance threads created counter = 256; ProcessIOExecutorService threads: 42 
+2024-07-15 23:32:33,450 [256246843]   INFO -        #com.intellij.idea.Main - ------------------------------------------------------ IDE SHUTDOWN ------------------------------------------------------ 
+2024-07-15 23:32:33,452 [256246845]   INFO - org.jetbrains.io.BuiltInServer - web server stopped 

@@ -1,5 +1,6 @@
 <application>
   <component name="PropertiesComponent">
+    <property name="SettingsSearchHistory" value="per" />
     <property name="UITheme.relaunch" value="true" />
     <property name="defaultJdkConfigured" value="true" />
     <property name="ide.memory.adjusted" value="true" />

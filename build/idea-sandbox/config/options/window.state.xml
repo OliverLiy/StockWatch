@@ -1,6 +1,6 @@
 <application>
   <component name="WindowManager">
-    <frame x="20" y="45" width="1400" height="758" />
+    <frame x="18" y="43" width="1404" height="762" extendedState="6" />
     <layout>
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
